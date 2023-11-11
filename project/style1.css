@@ -1,0 +1,112 @@
+.container, .content {
+    width: 100%;
+    height: 100%;
+    }
+    #container {
+        height:auto;
+        border: 1px solid black;
+    }
+    .page-header {
+        border: 1px solid black;
+        display:inline-block;
+        width:100%;
+        height:auto;
+    }
+    .top-header {
+        border:1px solid black;
+        display: inline-block;
+        width:99.7%;
+        height:120px;
+        margin-top: 1px;
+        margin-bottom: 9px;
+    }
+    .top-header img {
+        margin: 5px;
+        padding: 10px;
+        width:90px;
+        height:90px;
+    }
+    .form-control {
+        margin-left:80%;
+        margin-top:-4%;
+        padding: 10px;
+    }
+    .form-control input {
+        height: 30px;
+        width:250px;
+        font-size: 20px;
+    }
+    ul li {
+        list-style:none;
+    }
+    .nav-bar {
+        border:1px solid black;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        text-align:center;
+        width:99.7%;
+        list-style: none;
+    }
+    .nav-bar nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin-left: 40px;
+        margin-right: 40px;
+        text-align:center;
+        font-size: 25px;
+    }
+    .nav-bar nav ul {
+        margin-left:10%;
+    }
+    .body_part {
+        margin:10px;
+        display: inline-flex;
+        height: auto;
+    }
+    .left-sidebar {
+        display: block;
+        border: 1px solid black;
+        height: auto;
+        width: 20%;
+        padding: 20px;
+        font-size: 25px;
+    }
+    .left-sidebar ul li {
+        height: 80px;
+    }
+    #main-content-section {
+        border:1px solid black;
+        width: 60%;
+        margin:0px 15px;
+        padding-left: 30px;
+    }
+    /*
+    #main-content-section ul li {
+    }*/
+    .post-img {
+        padding: 10px;
+    }
+    img {
+        width: 320px;
+        height: 400px;
+    }
+    #right-sidebar-menu {
+        border: 1px solid black;
+        padding: 10px;
+        height: auto;
+        width: 20%;
+    }
+    #right-sidebar-menu ul li {
+        height: 40px;
+        text-size-adjust: 50px;
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    #page-footer {
+        border: 1px solid black;
+        font-size: 25px;
+    }
+    footer {
+        padding: 5px;
+        margin:5px;
+    }
